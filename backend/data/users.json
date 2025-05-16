@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1745174924138",
+    "username": "arush123",
+    "email": "arush@gmail.com",
+    "password": "$2a$10$f1pZOd28mDGHRITOm/CAIugInGlEW11KdCWU9lrhukMqMqHjQ6rKi",
+    "role": "user"
+  },
+  {
+    "id": "1745177401004",
+    "username": "devansh",
+    "email": "devansh@gmail.com",
+    "password": "$2a$10$B7jeRmnPifELLp6pAhT5CetAah.ArEt.5LYReCmRkP7Ra9EfOjmIO",
+    "role": "user"
+  },
+  {
+    "id": "1745348626777",
+    "username": "Aruah0131",
+    "email": "arushverma1392005@gmail.com",
+    "password": "$2a$10$Lsia8Y8SGLW5gdibNhQm6elGK8uIY1TDHPbzlQg7//.iZaVu75A4.",
+    "role": "user"
+  },
+  {
+    "id": "1745403080805",
+    "username": "watts",
+    "email": "bdbe@gmail.com",
+    "password": "$2a$10$ql3DHFWWkRSI3fIyqQh7pugnG5Kd/jC8YyjNLVvhhUjOrH87wtBFK",
+    "role": "user"
+  },
+  {
+    "id": "1745403528582",
+    "username": "sahil",
+    "email": "sahil@gmail.com",
+    "password": "$2a$10$a0TFQ93God/PeYvGLLbY7eJaPBIxsNcbeq6zS7n9D.h8IQL0hLC2O",
+    "role": "user"
+  },
+  {
+    "id": "1745405675754",
+    "username": "pulkit",
+    "email": "pulkit@gmail.com",
+    "password": "$2a$10$j6MutIXUffCMjXgZhD5FteUKl9VLvCHSjqabBPHCMkHHU9ypwAnDO",
+    "role": "user"
+  },
+  {
+    "id": "1747294253662",
+    "username": "samar",
+    "email": "samar@gmail.com",
+    "password": "$2a$10$E.hOVIEiwQCCW/jW.kf7POJv1jH0/lSjVtrWilud6zeXY6Pugd9Ou",
+    "role": "user"
+  },
+  {
+    "id": "1747323512562",
+    "username": "s",
+    "email": "s@gmail.com",
+    "password": "$2a$10$wOZGqxeqqvSUoSh6tUZV9ersGs/X19bNXhbUbyVzCpBtpk2ERWsBa",
+    "role": "user"
+  }
+]
